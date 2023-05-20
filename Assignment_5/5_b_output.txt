@@ -1,0 +1,35 @@
+For 1 generations: 
+0 neutron: 0.5852
+1 neutrons: 0.2157
+2 neutrons: 0.1267
+3 neutrons: 0.0724
+4 neutrons: 0.0
+
+For 2 generations: 
+0 neutron: 0.7822
+1 neutrons: 0.0903
+2 neutrons: 0.0621
+3 neutrons: 0.0458
+4 neutrons: 0.0196
+
+For 3 generations: 
+0 neutron: 0.8527
+1 neutrons: 0.0526
+2 neutrons: 0.0406
+3 neutrons: 0.0329
+4 neutrons: 0.0212
+
+For 4 generations: 
+0 neutron: 0.9116
+1 neutrons: 0.0289
+2 neutrons: 0.0236
+3 neutrons: 0.0181
+4 neutrons: 0.0178
+
+For 5 generations: 
+0 neutron: 0.94
+1 neutrons: 0.0193
+2 neutrons: 0.0146
+3 neutrons: 0.0134
+4 neutrons: 0.0127
+
